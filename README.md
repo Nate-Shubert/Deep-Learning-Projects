@@ -18,4 +18,4 @@ My project does the following:
 
 4. The music generator tends to "play it safe" and just repeats the same note over and over again. Therefore, I created a temperature, that helps it pick the chord that is the second, third, etc choice according to their respective probabilities and the temperature (how "risky" I want the music generator to be)
 
-USE THIS BY OPENING THE CODE IN GOOGLE COLLAB AND SELECTING "RUN ALL".
+USE THIS BY OPENING THE CODE IN GOOGLE COLAB AND SELECTING "RUN ALL".
